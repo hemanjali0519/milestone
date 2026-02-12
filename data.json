@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Garbage Collection",
+    "description": "Report garbage pickup issues"
+  },
+  {
+    "name": "Water Supply",
+    "description": "Water leakage or supply issues"
+  },
+  {
+    "name": "Electricity",
+    "description": "Power outage or billing issue"
+  }
+]
